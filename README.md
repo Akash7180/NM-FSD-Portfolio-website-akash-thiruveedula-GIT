@@ -12,4 +12,4 @@ Web Design : JavaScript, HTML5, CSS
 
 Version Control: GIT
 
-Done by: Abishek .K .M , Akash Thiruveedula , Anujan . G
+Done by: Abishek .K .M , Akash Thiruveedula , Anujan . G , Yuvaraj Sabari R
